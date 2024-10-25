@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://dreamstrl">
+    <a href="https://dreamstrl.com">
         <img src="https://dreamstrl.com/assets/Logo%20Semi%20Colored.png" alt="Profile Image" width="200" />
     </a>
 </div>
