@@ -76,5 +76,3 @@ We provide tailored digital solutions, focusing on empowering startups and indiv
   <a href="mailto:contact@dreamstrl.com">Email</a>
 </div>
 
-<p align="center">Thank you for visiting us!</p>
-
